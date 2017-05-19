@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86a037a1-5f30-4183-97ff-7de289d0f0ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backbone-model.md" afterPath="$PROJECT_DIR$/backbone-model.md" />
-    </list>
+    <list default="true" id="86a037a1-5f30-4183-97ff-7de289d0f0ae" name="Default" comment="" />
     <ignored path="gitWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,8 +36,8 @@
       <file leaf-file-name="model.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="223" column="10" selection-start-line="223" selection-start-column="10" selection-end-line="223" selection-end-column="10" />
+            <state relative-caret-position="268">
+              <caret line="212" column="37" selection-start-line="212" selection-start-column="37" selection-end-line="212" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -81,8 +77,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="239" />
-    <option name="y" value="-847" />
+    <option name="x" value="609" />
+    <option name="y" value="-1057" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
@@ -204,15 +200,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495186640480</updated>
-      <workItem from="1495186641944" duration="565000" />
+      <workItem from="1495186641944" duration="1352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="565000" />
+    <option name="totallyTimeSpent" value="1352000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="-847" width="1920" height="1057" extended-state="0" />
+    <frame x="609" y="-1057" width="1920" height="1057" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -271,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="223" column="10" selection-start-line="223" selection-start-column="10" selection-end-line="223" selection-end-column="10" />
+        <state relative-caret-position="268">
+          <caret line="212" column="37" selection-start-line="212" selection-start-column="37" selection-end-line="212" selection-end-column="37" />
           <folding />
         </state>
       </provider>

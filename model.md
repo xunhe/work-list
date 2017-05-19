@@ -1,8 +1,4 @@
 Backbone模型包含应用程序的数据和与数据相关的逻辑处理，我们通过扩展Backbone.Model对象来创建模型：
-```javascript
-var app = app ||{};
-app.MenuModel = Backbone.Model.extend({});
-```
 ## 构造函数初始化
 当创建一个模型的新实例时，其构造函数，即initialize()方法会被调用：
 ```javascript
