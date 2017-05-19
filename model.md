@@ -20,9 +20,7 @@ app.MenuModel = Backbone.Model.extend({
         status:'active'
     }
 });
-app.menu = new app.MenuModel({
-    status:'inactive'
-});
+
 console.log(app.menu.toJSON());
 ```
 toJSON()方法可以返回模型的attributes属性浅拷贝的JSON格式，attributes属性是包含模型状态的内部散列表--通常JSON对象的形式表示在服务器上模型数据，在Model中通常是defaults中的属性名和值
